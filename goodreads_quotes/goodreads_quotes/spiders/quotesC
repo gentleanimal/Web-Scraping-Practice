@@ -1,0 +1,300 @@
+[
+	{
+		"quote": "“Don't cry because it's over, smile because it happened.”",
+		"author": "Dr. Seuss",
+		"tags": "attributed-no-source; cry; crying; experience; happiness; joy; life; misattributed-dr-seuss; optimism; sadness; smile; smiling"
+	},
+	{
+		"quote": "“I'm selfish, impatient and a little insecure. I make mistakes, I am out of control and at times hard to handle. But if you can't handle me at my worst, then you sure as hell don't deserve me at my best.”",
+		"author": "Marilyn Monroe",
+		"tags": "attributed-no-source; best; life; love; mistakes; out-of-control; truth; worst"
+	},
+	{
+		"quote": "“Be yourself; everyone else is already taken.”",
+		"author": "Oscar Wilde",
+		"tags": "attributed-no-source; be-yourself; honesty; inspirational; misattributed-oscar-wilde"
+	},
+	{
+		"quote": "“Two things are infinite: the universe and human stupidity; and I'm not sure about the universe.”",
+		"author": "Albert Einstein",
+		"tags": "attributed-no-source; human-nature; humor; infinity; philosophy; science; stupidity; universe"
+	},
+	{
+		"quote": "“So many books, so little time.”",
+		"author": "Frank Zappa",
+		"tags": "books; humor"
+	},
+	{
+		"quote": "“Be who you are and say what you feel, because those who mind don't matter, and those who matter don't mind.”",
+		"author": "Bernard M. Baruch",
+		"tags": "ataraxy; be-yourself; confidence; fitting-in; individuality; misattributed-dr-seuss; those-who-matter"
+	},
+	{
+		"quote": "“A room without books is like a body without a soul.”",
+		"author": "Marcus Tullius Cicero",
+		"tags": "attributed-no-source; books; simile; soul"
+	},
+	{
+		"quote": "“You've gotta dance like there's nobody watching,",
+		"author": "William W. Purkey",
+		"tags": "dance; heaven; hurt; inspirational; life; love; sing"
+	},
+	{
+		"quote": "“You know you're in love when you can't fall asleep because reality is finally better than your dreams.”",
+		"author": "Dr. Seuss",
+		"tags": "attributed-no-source; dreams; love; reality; sleep"
+	},
+	{
+		"quote": "“You only live once, but if you do it right, once is enough.”",
+		"author": "Mae West",
+		"tags": "humor; life"
+	},
+	{
+		"quote": "“Be the change that you wish to see in the world.”",
+		"author": "Mahatma Gandhi",
+		"tags": "action; change; inspirational; philosophy; wish"
+	},
+	{
+		"quote": "“In three words I can sum up everything I've learned about life: it goes on.”",
+		"author": "Robert Frost",
+		"tags": "life"
+	},
+	{
+		"quote": "“If you want to know what a man's like, take a good look at how he treats his inferiors, not his equals.”",
+		"author": "J.K. Rowling,"
+	},
+	{
+		"quote": "“Don’t walk in front of me… I may not follow",
+		"author": "Albert Camus",
+		"tags": "attributed-no-source; friends; friendship; misattributed-albert-camus"
+	},
+	{
+		"quote": "“No one can make you feel inferior without your consent.”",
+		"author": "Eleanor Roosevelt,",
+		"tags": "confidence; inspirational; wisdom"
+	},
+	{
+		"quote": "“Friendship ... is born at the moment when one man says to another \"What! You too? I thought that no one but myself . . .”",
+		"author": "C.S. Lewis,",
+		"tags": "friendship"
+	},
+	{
+		"quote": "“If you tell the truth, you don't have to remember anything.”",
+		"author": "Mark Twain",
+		"tags": "lies; lying; memory; truth"
+	},
+	{
+		"quote": "“I've learned that people will forget what you said, people will forget what you did, but people will never forget how you made them feel.”",
+		"author": "Maya Angelou"
+	},
+	{
+		"quote": "“A friend is someone who knows all about you and still loves you.”",
+		"author": "Elbert Hubbard",
+		"tags": "friend; friendship; knowledge; love"
+	},
+	{
+		"quote": "“Always forgive your enemies; nothing annoys them so much.”",
+		"author": "Oscar Wilde",
+		"tags": "attributed-no-source; enemies; forgiveness; strategy"
+	},
+	{
+		"quote": "“To live is the rarest thing in the world. Most people exist, that is all.”",
+		"author": "Oscar Wilde",
+		"tags": "life"
+	},
+	{
+		"quote": "“Live as if you were to die tomorrow. Learn as if you were to live forever.”",
+		"author": "Mahatma Gandhi",
+		"tags": "carpe-diem; education; inspirational; learning"
+	},
+	{
+		"quote": "“Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.”",
+		"author": "Martin Luther King Jr.,",
+		"tags": "darkness; drive-out; hate; inspirational; light; love; peace"
+	},
+	{
+		"quote": "“I am so clever that sometimes I don't understand a single word of what I am saying.”",
+		"author": "Oscar Wilde,",
+		"tags": "intelligence; self-deprecation"
+	},
+	{
+		"quote": "“Without music, life would be a mistake.”",
+		"author": "Friedrich Nietzsche,",
+		"tags": "inspirational; music; philosophy"
+	},
+	{
+		"quote": "“To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.”",
+		"author": "Ralph Waldo Emerson",
+		"tags": "accomplishment; attributed-no-source; be-yourself; conformity; individuality"
+	},
+	{
+		"quote": "“We accept the love we think we deserve.”",
+		"author": "Stephen Chbosky,",
+		"tags": "inspirational; love"
+	},
+	{
+		"quote": "“Here's to the crazy ones. The misfits. The rebels. The troublemakers. The round pegs in the square holes. The ones who see things differently. They're not fond of rules. And they have no respect for the status quo. You can quote them, disagree with them, glorify or vilify them. About the only thing you can't do is ignore them. Because they change things. They push the human race forward. And while some may see them as the crazy ones, we see genius. Because the people who are crazy enough to think they can change the world, are the ones who do.”",
+		"author": "Rob Siltanen",
+		"tags": "advertising; apple; change; commercial; computers; different; madness; misattributed-apple; misattributed-steve-jobs; misfits; nonconformity; progressive; rebels; status-quo; think-different; troublemakers"
+	},
+	{
+		"quote": "“Insanity is doing the same thing, over and over again, but expecting different results.”",
+		"author": "Narcotics Anonymous",
+		"tags": "humor; insanity; life; misattributed-ben-franklin; misattributed-mark-twain; misattributed-to-einstein"
+	},
+	{
+		"quote": "“I believe that everything happens for a reason. People change so that you can learn to let go, things go wrong so that you appreciate them when they're right, you believe lies so you eventually learn to trust no one but yourself, and sometimes good things fall apart so better things can fall together.”",
+		"author": "Marilyn Monroe",
+		"tags": "attributed-no-source; misattributed-marilyn-monroe"
+	},
+	{
+		"quote": "“Twenty years from now you will be more disappointed by the things that you didn't do than by the ones you did do. So throw off the bowlines. Sail away from the safe harbor. Catch the trade winds in your sails. Explore. Dream. Discover.”",
+		"author": "H. Jackson Brown Jr.,",
+		"tags": "actions; disappointed; disappointment; dream; dreams; explore; misattributed-mark-twain; sail"
+	},
+	{
+		"quote": "“It is better to be hated for what you are than to be loved for what you are not.”",
+		"author": "Andre Gide,",
+		"tags": "life; love"
+	},
+	{
+		"quote": "“Only once in your life, I truly believe, you find someone who can completely turn your world around. You tell them things that you’ve never shared with another soul and they absorb everything you say and actually want to hear more. You share hopes for the future, dreams that will never come true, goals that were never achieved and the many disappointments life has thrown at you. When something wonderful happens, you can’t wait to tell them about it, knowing they will share in your excitement. They are not embarrassed to cry with you when you are hurting or laugh with you when you make a fool of yourself. Never do they hurt your feelings or make you feel like you are not good enough, but rather they build you up and show you the things about yourself that make you special and even beautiful. There is never any pressure, jealousy or competition but only a quiet calmness when they are around. You can be yourself and not worry about what they will think of you because they love you for who you are. The things that seem insignificant to most people such as a note, song or walk become invaluable treasures kept safe in your heart to cherish forever. Memories of your childhood come back and are so clear and vivid it’s like being young again. Colours seem brighter and more brilliant. Laughter seems part of daily life where before it was infrequent or didn’t exist at all. A phone call or two during the day helps to get you through a long day’s work and always brings a smile to your face. In their presence, there’s no need for continuous conversation, but you find you’re quite content in just having them nearby. Things that never interested you before become fascinating because you know they are important to this person who is so special to you. You think of this person on every occasion and in everything you do. Simple things bring them to mind like a pale blue sky, gentle wind or even a storm cloud on the horizon. You open your heart knowing that there’s a chance it may be broken one day and in opening your heart, you experience a love and joy that you never dreamed possible. You find that being vulnerable is the only way to allow your heart to feel true pleasure that’s so real it scares you. You find strength in knowing you have a true friend and possibly a soul mate who will remain loyal to the end. Life seems completely different, exciting and worthwhile. Your only hope and security is in knowing that they are a part of your life.”",
+		"author": "Bob Marley",
+		"tags": "love"
+	},
+	{
+		"quote": "“All that is gold does not glitter,",
+		"author": "J.R.R. Tolkien,",
+		"tags": "frost; glitter; gold; lost; poetry; roots; strength; strong; wander; wither"
+	},
+	{
+		"quote": "“It is our choices, Harry, that show what we truly are, far more than our abilities.”",
+		"author": "J.K. Rowling,",
+		"tags": "abilities; choices"
+	},
+	{
+		"quote": "“Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.”",
+		"author": "Marilyn Monroe",
+		"tags": "attributed-no-source; be-yourself; inspirational"
+	},
+	{
+		"quote": "“The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.”",
+		"author": "Jane Austen,",
+		"tags": "aliteracy; books; classic; humor"
+	},
+	{
+		"quote": "“It does not do to dwell on dreams and forget to live.”",
+		"author": "J.K. Rowling,",
+		"tags": "dreams; life"
+	},
+	{
+		"quote": "“There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.”",
+		"author": "Albert Einstein",
+		"tags": "attributed-no-source; inspirational; life; live; miracle; miracles"
+	},
+	{
+		"quote": "“As he read, I fell in love the way you fall asleep: slowly, and then all at once.”",
+		"author": "John Green,",
+		"tags": "love"
+	},
+	{
+		"quote": "“Good friends, good books, and a sleepy conscience: this is the ideal life.”",
+		"author": "Mark Twain",
+		"tags": "books; contentment; friends; friendship; life"
+	},
+	{
+		"quote": "“It is better to remain silent at the risk of being thought a fool, than to talk and remove all doubt of it.”",
+		"author": "Maurice Switzer,",
+		"tags": "misattributed-to-abraham-lincoln; misattributed-to-mark-twain; remaining-silent; wisdom"
+	},
+	{
+		"quote": "“The fool doth think he is wise, but the wise man knows himself to be a fool.”",
+		"author": "William Shakespeare,",
+		"tags": "wisdom"
+	},
+	{
+		"quote": "“We are all in the gutter, but some of us are looking at the stars.”",
+		"author": "Oscar Wilde,",
+		"tags": "inspirational; optimism; perception; pessimism"
+	},
+	{
+		"quote": "“Life is what happens to us while we are making other plans.”",
+		"author": "Allen Saunders",
+		"tags": "fate; life; misattributed-john-lennon; planning; plans"
+	},
+	{
+		"quote": "“Whenever you find yourself on the side of the majority, it is time to reform (or pause and reflect).”",
+		"author": "Mark Twain",
+		"tags": "individuality; majority; minority; pause; reflect; wisdom"
+	},
+	{
+		"quote": "“Fairy tales are more than true: not because they tell us that dragons exist, but because they tell us that dragons can be beaten.”",
+		"author": "Neil Gaiman,",
+		"tags": "books; dragons; fairy-tales; inspirational; paraphrasing-g-k-chesterton"
+	},
+	{
+		"quote": "“Yesterday is history, tomorrow is a mystery, today is a gift of God, which is why we call it the present.”",
+		"author": "Bill Keane",
+		"tags": "attributed-no-source; hope; inspirational; misattributed-eleanor-roosevelt; past; present; widely-misattributed"
+	},
+	{
+		"quote": "“A woman is like a tea bag; you never know how strong it is until it's in hot water.”",
+		"author": "Eleanor Roosevelt",
+		"tags": "attributed-no-source; misattributed-eleanor-roosevelt"
+	},
+	{
+		"quote": "“I have not failed. I've just found 10,000 ways that won't work.”",
+		"author": "Thomas A. Edison",
+		"tags": "edison; failure; inspirational; paraphrased"
+	},
+	{
+		"quote": "“The man who does not read has no advantage over the man who cannot read.”",
+		"author": "Mark Twain",
+		"tags": "aliteracy; attributed-no-source; literacy"
+	},
+	{
+		"quote": "“The opposite of love is not hate, it's indifference. The opposite of art is not ugliness, it's indifference. The opposite of faith is not heresy, it's indifference. And the opposite of life is not death, it's indifference.”",
+		"author": "Elie Wiesel",
+		"tags": "activism; apathy; hate; indifference; inspirational; love; opposite; philosophy"
+	},
+	{
+		"quote": "“It is not a lack of love, but a lack of friendship that makes unhappy marriages.”",
+		"author": "Friedrich Nietzsche",
+		"tags": "friendship; lack-of-friendship; lack-of-love; love; marriage; unhappy-marriage"
+	},
+	{
+		"quote": "“If you don't stand for something you will fall for anything.”",
+		"author": "Gordon A. Eadie",
+		"tags": "belief; integrity; misattributed-to-malcolm-x; misattributed-to-rosa-parks"
+	},
+	{
+		"quote": "“I may not have gone where I intended to go, but I think I have ended up where I needed to be.”",
+		"author": "douglas adams,",
+		"tags": "life; navigation"
+	},
+	{
+		"quote": "“I solemnly swear that I am up to no good.”",
+		"author": "J.K. Rowling,",
+		"tags": "mischief"
+	},
+	{
+		"quote": "“Outside of a dog, a book is man's best friend. Inside of a dog it's too dark to read.”",
+		"author": "Groucho Marx,",
+		"tags": "animals; books; dogs; friends; humor"
+	},
+	{
+		"quote": "“I love you without knowing how, or when, or from where. I love you simply, without problems or pride: I love you in this way because I do not know any other way of loving but this, in which there is no I or you, so intimate that your hand upon my chest is my hand, so intimate that when I fall asleep your eyes close.”",
+		"author": "Pablo Neruda,",
+		"tags": "love; poetry"
+	},
+	{
+		"quote": "“I am enough of an artist to draw freely upon my imagination. Imagination is more important than knowledge. Knowledge is limited. Imagination encircles the world.”",
+		"author": "Albert Einstein",
+		"tags": "1929; imagination; inspirational; viereck-interview"
+	},
+	{
+		"quote": "“I like nonsense, it wakes up the brain cells. Fantasy is a necessary ingredient in living.”",
+		"author": "Dr. Seuss",
+		"tags": "fantasy"
+	}
+]
