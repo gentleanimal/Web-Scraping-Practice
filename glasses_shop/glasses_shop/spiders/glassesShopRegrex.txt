@@ -1,0 +1,5 @@
+Saved regrex from glassesShop spider
+https://regex101.com/r/XQ7sIB/1
+
+Pagination start
+https://www.glassesshop.com/bestsellers?page=2
