@@ -1,0 +1,41 @@
+{
+    "programming_language": "Python",
+    "timestap": 1538674500,
+    "employees": [
+        {
+            "id": 1,
+            "fullname": "Stephen M. Brungardt",
+            "address": "2615 Taylor Street",
+            "city": "New York",
+            "phone_number": "914-614-6660"
+        },
+        {
+            "id": 2,
+            "fullname": "Francisco K. Lawrence",
+            "address": "3537 Formula Lane",
+            "city": "Dallas",
+            "phone_number": "469-737-8413"
+        },
+        {
+            "id": 3,
+            "fullname": "Donald C. Browning",
+            "address": "3903 Sussex Court",
+            "city": "Kosse",
+            "phone_number": "254-375-0035"
+        },
+        {
+            "id": 4,
+            "fullname": "Robert P. Roark",
+            "address": "2529 Rose Street",
+            "city": "Schaumburg",
+            "phone_number": "708-254-0049"
+        },
+        {
+            "id": 5,
+            "fullname": "Charles M. Sanchez",
+            "address": "1703 Neville Street",
+            "city": "Jasper",
+            "phone_number": "812-622-9285"
+        }   
+    ]
+}
