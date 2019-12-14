@@ -1,0 +1,16 @@
+function main(splash, args)
+
+  splash:on_request(function(request)
+      request:set_header('User-Agent', "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36 Other HTTP headers")
+    end)
+  splash.private_mode_enabled = false
+
+  url = args.url
+  assert(splash:go(args.url))
+  assert(splash:wait(1))
+
+  splash:set_viewport_full()
+
+  return splash:html()
+
+end
