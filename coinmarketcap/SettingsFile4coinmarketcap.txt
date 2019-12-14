@@ -1,0 +1,177 @@
+Settings file No change AUTOTHROTTLE_DELAY = TRUE coins2.json
+2019-12-12 13:53:13 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 34834,
+ 'downloader/request_count': 104,
+ 'downloader/request_method_count/GET': 104,
+ 'downloader/response_bytes': 2647600,
+ 'downloader/response_count': 104,
+ 'downloader/response_status_count/200': 56,
+ 'downloader/response_status_count/429': 48,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 12, 12, 19, 53, 13, 145310),
+ 'item_scraped_count': 54,
+ 'log_count/DEBUG': 348,
+ 'log_count/ERROR': 92,
+ 'log_count/INFO': 16,
+ 'request_depth_max': 1,
+ 'response_received_count': 56,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 103,
+ 'scheduler/dequeued/memory': 103,
+ 'scheduler/enqueued': 103,
+ 'scheduler/enqueued/memory': 103,
+ 'start_time': datetime.datetime(2019, 12, 12, 19, 46, 35, 357389)}
+2019-12-12 13:53:13 [scrapy.core.engine] INFO: Spider closed (finished)
+
+Settings file Download_Delay = 3 AUTOTHROTTLE_DELAY = TRUE coins3.json
+2019-12-12 13:43:48 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 34015,
+ 'downloader/request_count': 102,
+ 'downloader/request_method_count/GET': 102,
+ 'downloader/response_bytes': 2799520,
+ 'downloader/response_count': 102,
+ 'downloader/response_status_count/200': 62,
+ 'downloader/response_status_count/429': 40,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 12, 12, 19, 43, 48, 458605),
+ 'item_scraped_count': 60,
+ 'log_count/DEBUG': 322,
+ 'log_count/ERROR': 80,
+ 'log_count/INFO': 18,
+ 'request_depth_max': 1,
+ 'response_received_count': 62,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 101,
+ 'scheduler/dequeued/memory': 101,
+ 'scheduler/enqueued': 101,
+ 'scheduler/enqueued/memory': 101,
+ 'start_time': datetime.datetime(2019, 12, 12, 19, 35, 42, 934863)}
+2019-12-12 13:43:48 [scrapy.core.engine] INFO: Spider closed (finished)
+
+Settings File Download_Delay = 5 AUTOTHROTTLE_DELAY = TRUE coins4.json
+2019-12-12 14:23:47 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 34015,
+ 'downloader/request_count': 102,
+ 'downloader/request_method_count/GET': 102,
+ 'downloader/response_bytes': 2890627,
+ 'downloader/response_count': 102,
+ 'downloader/response_status_count/200': 65,
+ 'downloader/response_status_count/429': 37,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 12, 12, 20, 23, 47, 174326),
+ 'item_scraped_count': 63,
+ 'log_count/DEBUG': 313,
+ 'log_count/ERROR': 74,
+ 'log_count/INFO': 20,
+ 'request_depth_max': 1,
+ 'response_received_count': 65,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 101,
+ 'scheduler/dequeued/memory': 101,
+ 'scheduler/enqueued': 101,
+ 'scheduler/enqueued/memory': 101,
+ 'start_time': datetime.datetime(2019, 12, 12, 20, 13, 21, 345281)}
+2019-12-12 14:23:47 [scrapy.core.engine] INFO: Spider closed (finished)
+
+coins5.json
+AUTOTHROTTLE_DELAY = TRUE
+Settings File Download_Delay->off AUTOTHROTTLE_START_DELAY = 5
+2019-12-12 14:33:57 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 1,
+ 'downloader/exception_type_count/twisted.web._newclient.ResponseNeverReceived': 1,
+ 'downloader/request_bytes': 34352,
+ 'downloader/request_count': 103,
+ 'downloader/request_method_count/GET': 103,
+ 'downloader/response_bytes': 2462663,
+ 'downloader/response_count': 102,
+ 'downloader/response_status_count/200': 50,
+ 'downloader/response_status_count/429': 52,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 12, 12, 20, 33, 57, 477062),
+ 'item_scraped_count': 48,
+ 'log_count/DEBUG': 359,
+ 'log_count/ERROR': 104,
+ 'log_count/INFO': 17,
+ 'request_depth_max': 1,
+ 'response_received_count': 50,
+ 'retry/count': 1,
+ 'retry/reason_count/twisted.web._newclient.ResponseNeverReceived': 1,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 102,
+ 'scheduler/dequeued/memory': 102,
+ 'scheduler/enqueued': 102,
+ 'scheduler/enqueued/memory': 102,
+ 'start_time': datetime.datetime(2019, 12, 12, 20, 26, 51, 350002)}
+2019-12-12 14:33:57 [scrapy.core.engine] INFO: Spider closed (finished)
+
+coins6.json
+AUTOTHROTTLE_DELAY = TRUE
+Settings File Download_Delay->off AUTOTHROTTLE_START_DELAY = 5 ->off HTTP_CACHE = True
+2019-12-12 14:53:53 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/exception_count': 1,
+ 'downloader/exception_type_count/twisted.web._newclient.ResponseNeverReceived': 1,
+ 'downloader/request_bytes': 34346,
+ 'downloader/request_count': 103,
+ 'downloader/request_method_count/GET': 103,
+ 'downloader/response_bytes': 2607644,
+ 'downloader/response_count': 102,
+ 'downloader/response_status_count/200': 55,
+ 'downloader/response_status_count/429': 47,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 12, 12, 20, 53, 53, 420123),
+ 'httpcache/firsthand': 102,
+ 'httpcache/miss': 103,
+ 'httpcache/store': 102,
+ 'item_scraped_count': 53,
+ 'log_count/DEBUG': 345,
+ 'log_count/ERROR': 94,
+ 'log_count/INFO': 17,
+ 'request_depth_max': 1,
+ 'response_received_count': 55,
+ 'retry/count': 1,
+ 'retry/reason_count/twisted.web._newclient.ResponseNeverReceived': 1,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 102,
+ 'scheduler/dequeued/memory': 102,
+ 'scheduler/enqueued': 102,
+ 'scheduler/enqueued/memory': 102,
+ 'start_time': datetime.datetime(2019, 12, 12, 20, 46, 38, 311477)}
+2019-12-12 14:53:53 [scrapy.core.engine] INFO: Spider closed (finished)
+
+Settings File Download_Delay = 7 AUTOTHROTTLE_DELAY = TRUE coins7.json
+NO ERRORS
+2019-12-12 16:25:41 [scrapy.statscollectors] INFO: Dumping Scrapy stats:
+{'downloader/request_bytes': 34015,
+ 'downloader/request_count': 102,
+ 'downloader/request_method_count/GET': 102,
+ 'downloader/response_bytes': 3975819,
+ 'downloader/response_count': 102,
+ 'downloader/response_status_count/200': 102,
+ 'finish_reason': 'finished',
+ 'finish_time': datetime.datetime(2019, 12, 12, 22, 25, 41, 427981),
+ 'item_scraped_count': 100,
+ 'log_count/DEBUG': 202,
+ 'log_count/INFO': 23,
+ 'request_depth_max': 1,
+ 'response_received_count': 102,
+ 'robotstxt/request_count': 1,
+ 'robotstxt/response_count': 1,
+ 'robotstxt/response_status_count/200': 1,
+ 'scheduler/dequeued': 101,
+ 'scheduler/dequeued/memory': 101,
+ 'scheduler/enqueued': 101,
+ 'scheduler/enqueued/memory': 101,
+ 'start_time': datetime.datetime(2019, 12, 12, 22, 10, 52, 117031)}
+2019-12-12 16:25:41 [scrapy.core.engine] INFO: Spider closed (finished)
+
+
