@@ -11,7 +11,7 @@ import random, logging
 
 
 class UserAgentRotatorMiddleware(UserAgentMiddleware):
-    '''user_agents_list = [
+    user_agents_list = [
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64)AppleWebKit/537.36 (KHTML, like Gecko)Chrome/60.0.3112.113 Safari/537.36',
         'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/39.0.2171.71 Safari/537.36 Edge/12.0',
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/42.0.2311.135 Safari/537.36 Edge/12.10240',
@@ -19,12 +19,6 @@ class UserAgentRotatorMiddleware(UserAgentMiddleware):
         'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.157 Safari/537.36',
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/51.0.2704.79Safari/537.36 Edge/14.14393',
         'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36'
-    ]'''
-    user_agents_list = [
-        'agent_1',
-        'agent_2',
-        'agent_3',
-        'agent_4'
     ]
 
     def __init__(self, user_agent=' '):
@@ -33,7 +27,7 @@ class UserAgentRotatorMiddleware(UserAgentMiddleware):
     def process_request(self, request, spider):
         try:
             self.user_agent = random.choice(self.user_agents_list)
-            request.headers.setdefault('User_Agent', self.user_agents_list)
+            request.headers.setdefault('User-Agent', self.user_agents_list)
         except IndexError:
             logging.error("Couldn't fetch the user agent")
 
