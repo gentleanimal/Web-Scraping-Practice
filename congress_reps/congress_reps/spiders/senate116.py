@@ -12,7 +12,7 @@ class CongressSenateSpider(CrawlSpider):
 
     rules = (
         Rule(LinkExtractor(restrict_xpaths="//ol/li[@class='compact']/span/a"), callback='parse_item', follow=True),
-        Rule(LinkExtractor(restrict_xpaths="//div[@class='nav-pag-top']/div[@class='pagination']/a[@class='next']"),callback='parse_item', follow=True),
+        Rule(LinkExtractor(restrict_xpaths="//div[@class='nav-pag-top']/div[@class='pagination']/a[@class='next']"), callback='parse_item', follow=True)
     )
 
 
