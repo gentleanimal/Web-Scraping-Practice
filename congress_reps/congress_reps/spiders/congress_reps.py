@@ -5,7 +5,7 @@ from scrapy.spiders import CrawlSpider, Rule
 
 class CongressRepsSpider(CrawlSpider):
 
-    name = "congressReps"
+    name = "congressReps1"
 
     allowed_domains = ["www.congress.gov"]
     start_urls = ["https://www.congress.gov/members?pageSort=state&searchResultViewType=compact&KWICView=false&pageSize=100&q=%7B%22congress%22%3A%5B%22116%22%2C%22115%22%2C%22114%22%2C%22113%22%2C%22112%22%2C%22111%22%2C%22110%22%2C%22109%22%2C%22108%22%2C%22107%22%5D%2C%22chamber%22%3A%22House%22%7D"]
